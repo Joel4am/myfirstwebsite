@@ -1,1 +1,1 @@
-# myfirstwebsite
+My name is Joel, and this is my first personal website. I am currently a student at fullstack academy and I am eager to learn. I learn HTML, CSS, and Javascript.
